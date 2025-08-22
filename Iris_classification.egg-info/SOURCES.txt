@@ -1,0 +1,7 @@
+README.md
+setup.py
+Iris_classification.egg-info/PKG-INFO
+Iris_classification.egg-info/SOURCES.txt
+Iris_classification.egg-info/dependency_links.txt
+Iris_classification.egg-info/requires.txt
+Iris_classification.egg-info/top_level.txt

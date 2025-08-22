@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Iris_classification
+Version: 0.0.1
+Author: sanjay singh
+Author-email: singh605379@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
